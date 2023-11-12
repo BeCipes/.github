@@ -8,7 +8,7 @@ Aplikasi yang memudahkan Anda dalam memasak Makanan yang Sehat.
 ### Web Development Division
 | Name | University | Role | Profile |
 |:----:|:----------:|:-------:|:-------:|
-|Fadhil|Universitas|Hipster|<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/White/LinkedIN_white.svg" alt="fazrigading" height="30" width="30"/></a>|
+|Fadhila Risfaniatul Zaini|Universitas Tulungagung|Hustler|<a href="https://www.linkedin.com/in/fadhila-risfaniatul-zaini-41b90a297/" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/White/LinkedIN_white.svg" alt="fazrigading" height="30" width="30"/></a>|
 |Adityo|Universitas|Hipster|<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/White/LinkedIN_white.svg" alt="fazrigading" height="30" width="30"/></a>|
 |Aina Fazla|Universitas Malikussaleh|Hipster|<a href="https://www.linkedin.com/in/aina-fazla/" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/White/LinkedIN_white.svg" alt="fazrigading" height="30" width="30"/></a>|
 |Alfin|Universitas|Hipster|<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/White/LinkedIN_white.svg" alt="fazrigading" height="30" width="30"/></a>|
