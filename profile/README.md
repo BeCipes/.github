@@ -27,5 +27,5 @@ Aplikasi yang memudahkan Anda dalam memasak Makanan yang Sehat.
 ### Hybird Cloud & AI Division
 | Name | University | Role | Profile |
 |:----:|:----------:|:-------:|:-------:|
-|I Gede Putu Agus Pranatha Jaya|Institut Teknologi Dan Bisnis STIKOM Bali|HCAI|<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/White/LinkedIN_white.svg" alt="fazrigading" height="30" width="30"/></a>|
-|Rina|Universitas|HCAI|<a href="https://www.linkedin.com/in//" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/White/LinkedIN_white.svg" alt="fazrigading" height="30" width="30"/></a>|
+|I Gede Putu Agus Pranatha Jaya|Institut Teknologi Dan Bisnis STIKOM Bali|Programmer|<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/White/LinkedIN_white.svg" alt="fazrigading" height="30" width="30"/></a>|
+|Rina Wati Nurlia Br Sihite|Universitas Papua|Programmer|<a href="https://www.linkedin.com/in//" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/White/LinkedIN_white.svg" alt="fazrigading" height="30" width="30"/></a>|
