@@ -23,3 +23,9 @@ Aplikasi yang memudahkan Anda dalam memasak Makanan yang Sehat.
 |<a href="https://github.com/ArbalestX7">Dito Iqbal Kusuma</a>|Universitas Bina Sarana Informatika|Programmer|<a href="https://www.linkedin.com/in/dito-iqbal-kusuma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/White/LinkedIN_white.svg" alt="fazrigading" height="30" width="30"/></a>|
 |<a href="https://github.com/AustinNick">Austin Nicholas Tham</a>|Universitas Pradita|Programmer|<a href="https://www.linkedin.com/in/austinnick112/" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/White/LinkedIN_white.svg" alt="fazrigading" height="30" width="30"/></a>|
 |<a href="https://github.com/rahmadnoorikhsan">Rahmad Noor Ikhsan</a>|Universitas Sains Al-Qur'an|Programmer|<a href="https://www.linkedin.com/in/rhmdnrikhsn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/White/LinkedIN_white.svg" alt="fazrigading" height="30" width="30"/></a>|
+
+### HCAI Division
+| Name | University | Role | Profile |
+|:----:|:----------:|:-------:|:-------:|
+|<a href="https://github.com/mutiarasjhr">Detu</a>|Universitas|HCAI|<a href="https://www.linkedin.com/in//" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/White/LinkedIN_white.svg" alt="fazrigading" height="30" width="30"/></a>|
+|<a href="https://github.com/mutiarasjhr">Rina</a>|Universitas|HCAI|<a href="https://www.linkedin.com/in//" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/White/LinkedIN_white.svg" alt="fazrigading" height="30" width="30"/></a>|
