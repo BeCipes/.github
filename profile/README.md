@@ -1,4 +1,4 @@
-# GoCipes: _Resep Sehat, Tubuh Kuat_
+# BeCipes: _Resep Sehat, Tubuh Kuat_
 
 # About Us
 Aplikasi yang memudahkan Anda dalam memasak Makanan yang Sehat.
