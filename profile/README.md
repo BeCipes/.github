@@ -1,4 +1,5 @@
 # BeCipes: _Resep Sehat, Tubuh Kuat_
+<p align="center"><img align="center" src="https://raw.githubusercontent.com/BeCipes/Resources/main/assets/banner-becipes.png" alt="Becipes Logo"/></p>
 
 # About Us
 Aplikasi yang memudahkan Anda dalam memasak Makanan yang Sehat.
