@@ -1,4 +1,4 @@
-# BeCipes: _Resep Sehat, Tubuh Kuat_
+# BeCipes: _Best Recipes-Best Life_
 <p align="center"><img align="center" src="https://raw.githubusercontent.com/BeCipes/Resources/main/assets/banner-becipes.png" alt="Becipes Logo"/></p>
 
 # About Us
