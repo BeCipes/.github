@@ -1,9 +1,11 @@
 # BeCipes: _Best Recipes-Best Life_
 <p align="center"><img align="center" src="https://raw.githubusercontent.com/BeCipes/Resources/main/assets/banner-becipes.png" alt="Becipes Logo"/></p>
 
-# About Us
+## About Us
 A platform that makes it easy for you to get healthy food. Use this platform to help you easily serve healthy food, get information about nutritional health, and cooking techniques.
 
+### Mobile Application
+<p align="center"><img align="center" src="https://raw.githubusercontent.com/BeCipes/Resources/main/assets/Becipess.png" alt="Becipes App"/></p>
 
 ## Our Teams
 ### Web Development Division
