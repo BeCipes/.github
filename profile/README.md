@@ -2,7 +2,7 @@
 <p align="center"><img align="center" src="https://raw.githubusercontent.com/BeCipes/Resources/main/assets/banner-becipes.png" alt="Becipes Logo"/></p>
 
 # About Us
-Aplikasi yang memudahkan Anda dalam memasak Makanan yang Sehat.
+A platform that makes it easy for you to get healthy food. Use this platform to help you easily serve healthy food, get information about nutritional health, and cooking techniques.
 
 
 ## Our Teams
